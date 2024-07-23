@@ -1,0 +1,31 @@
+repeatation steps to set up
+html file
+css fileand write there boilerplate code
+link both of them 
+
+css basics
+width and height
+color
+font-family
+font size
+line height
+text-align
+padding
+margin
+border
+display
+position
+background
+flex
+pseudo-element
+pseudo-classes
+
+animation 
+media queries
+
+// study some imp points;
+box banao and usey red karo
+
+div banie html mein
+div ko width and height dijiye css mein
+
